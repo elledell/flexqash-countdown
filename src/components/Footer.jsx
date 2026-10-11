@@ -4,7 +4,7 @@ import logo from "../assets/logo.png";
 export default function Footer() {
   const [copied, setCopied] = useState(false);
 
-  const shareUrl = "https://www.flexqash.com/launch";
+  const shareUrl = "https://www.flexqash.com/";
   const shareCaption =
     "Get ready to turn your phone into a daily income stream! Count down to the official FlexQash launch:";
   const fullShareMessage = `${shareCaption}\n${shareUrl}`;
@@ -82,10 +82,10 @@ export default function Footer() {
             <div>
               <span className="font-bold text-[#f5b82e]">Call: </span>
               <a
-                href="tel:+254700000000"
+                href="tel:+254182852787"
                 className="text-slate-200 hover:underline"
               >
-                +254 700 000 000
+                +254 182 852 787
               </a>
             </div>
 

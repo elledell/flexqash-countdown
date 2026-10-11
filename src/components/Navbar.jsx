@@ -14,7 +14,7 @@ export default function Navbar() {
   ];
 
   // Unique FlexQash launch share message & URL
-  const shareUrl = "https://www.flexqash.com/launch";
+  const shareUrl = "https://www.flexqash.com/";
   const shareCaption =
     "Get ready to turn your phone into a daily income stream! Count down to the official FlexQash launch:";
   const fullShareMessage = `${shareCaption}\n${shareUrl}`;

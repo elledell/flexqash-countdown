@@ -143,10 +143,10 @@ export default function Hero() {
           <div>
             <span className="font-bold text-[#f5b82e]">Call: </span>
             <a
-              href="tel:+254700000000"
+              href="tel:+254182852787"
               className="text-white hover:underline"
             >
-              +254 700 000 000
+            +254 182 852 787
             </a>
           </div>
         </div>
